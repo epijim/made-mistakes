@@ -1,7 +1,9 @@
 ---
 layout: home
-description: "Made Mistakes is the personal website of Buffalo NY designer &amp; illustrator Michael Rose."
-tags: [Michael Rose, portfolio, blog, graphic design, web design]
+description: "James Black. An epidemiologist studying at Cambridge University."
+tags: [James Black, portfolio, blog, graphic design, web design]
 ---
 
-Hi, I'm Michael Rose --- just another boring, tattooed, time traveling, designer from Buffalo New York.
+Hey, I'm James Black --- I'm an epidemiology student at the University of Cambridge.
+ This site documents my attempts to learn *R*, *Python*, and all the tools a modern 
+ epidemiologist needs.

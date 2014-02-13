@@ -1,6 +1,6 @@
 ---
 layout: work
-permalink: /paperfaces/
+permalink: /plots/
 title: "PaperFaces Project Gallery"
 short-title: "PaperFaces Project"
 headline: "PaperFaces Project"

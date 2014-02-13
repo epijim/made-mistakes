@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /mastering-paper/
+permalink: /my-papers/
 title: "Mastering Paper by 53"
 short-title: "Mastering Paper by 53"
 description: "A collection of tutorials and techniques to help master Paper by 53 for iPad."
