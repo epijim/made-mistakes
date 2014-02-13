@@ -35,8 +35,8 @@ permalink:   /:categories/:title/
 
 # Internal pages/posts to include in top navigation
 links:
-  - title: Work
-    url: /work/
+  - title: Home
+    url: /
   - title: Blog
     url: /blog/
   - title: Plots
