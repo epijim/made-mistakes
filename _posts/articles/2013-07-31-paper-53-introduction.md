@@ -1,102 +1,25 @@
 ---
 layout: post
-title: "Mastering Paper by 53: Introduction and Tool Guide"
-description: "An introduction to Paper's tools and how to exploit them for drawing realistically."
+title: "Health related quality of life after injury"
+description: "Recovery after injury: an individual patient data meta-analysis of general health status using the EQ-5D."
 modified: 2014-01-10
 image: 
-  feature: paper-53-expanded-guide-feature.jpg
-  thumb: paper-53-expanded-guide-thumb.jpg
-  homepage: paper-by-53-500x500.jpg
+  feature: /posts/paper1_ack.png
+  thumb: /posts/paper1_ack.png
+  homepage: /posts/paper1_ack.png
 category: articles
 tags: [Paper by 53, tutorial, drawing, painting, iPad, stylus]
-series: mastering-paper
+series: my-papers
 comments: true
 ---
 
-Paper by 53 and me were BFFs from the start. Spread across my journals you'd find around 600 pages with creation times ranging from 30 minutes to 4 hours. A conservative estimate has me logged at around 500 hours of drawing and painting in this iOS app --- which is kind of crazy when I think about it. I'm not sure if that qualifies me as a good teacher or not, but I'm going to try and expand on some tips and techniques I've previously written about in this multi-part series.
-
-![Paper 53 journals screenshot]({{ site.url }}/images/paper-53-journals.jpg)
-
-In this first part you'll learn about the benefits of a stylus, how all of the Paper by 53 tools work, and basic gestures you'll want to master. The remaining parts will dig deeper into techniques I use when drawing idealistically, page management, advanced features, and how to record the iPad's screen and make time lapse videos of your creations.
-
-* Table of Contents
-{:toc}
-
-## Is a Stylus Necessary?
-
-Finger painting with Paper can yield some impressive results, but may feel unnatural if you're used to drawing with pens and pencils. If you decide to go with a capacitive stylus be aware that it won't match the precision of a traditional pen because of the fat and rubbery tip.
-
-![Adonit Jot Classic]({{ site.url }}/images/adonit-jot-classic-tip.jpg)
-
-<i class="fa fa-star"></i> **ProTip:** For those craving precision I'd suggest trying one of the many [**Adonit Jot**](http://www.amazon.com/gp/product/B00931K1QK/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00931K1QK&linkCode=as2&tag=mademist-20) styli. The tips on these bad boys have clear plastic tips that can pivot and tilt allowing you to see exactly where you are on the iPad's screen.
-{: .notice}
-
-Going one step further are styli built with pressure sensitivity in the tip that can alter the characteristics of a mark depending on how hard you press on it. Paper by 53 supports Ten One Design's **Pogo Connect Smart Pen** out of the box, and has quickly become my go to stylus when creating on iPad. To learn more about how it became a favorite, check out my [image filled review]({{ site.url }}{% post_url /articles/2013-07-08-pogo-connect-smart-pen %} "My Pogo Connect Smart Pen Review") here.
-
-![Paper by 53 tools screenshot]({{ site.url }}/images/paper-53-the-tools.jpg)
-
-## The Tools and How they Behave
-
-Starting with order of appearance you have the following tools at your disposal: [*eraser*](#eraser), [*fountain pen*](#fountain-pen), [*pencil*](#pencil), [*marker*](#marker), [*ink pen*](#ink-pen), [*watercolor brush*](#watercolor-brush), and [*color mixer*](#color-mixer). The fountain pen and eraser are included with the free app --- the rest can be downloaded via in-app purchase as a set or individually.
-When describing these tools I will be using the following descriptors:
-
-* **Speed:** How does the speed of drawing affect a line's weight.
-* **Blending:** Are marks opaque[^opaque] or translucent and how many layers are needed to make a pure color[^pure-color].
-* **Sensitivity:** How are marks and line quality affected by the amount of pressure applied when using a Pogo Connect Smart Pen.
-
-### Eraser {#eraser}
-
-The eraser does what its name implies --- it erases. It is not the most precise tool with such a fat tip, which is why I prefer to rewind mistakes ([more on that later](#rewind)) instead.
-
-For handling cleanup duty, the eraser is very effective at defining edges and making them straight. By simply running it along an edge you can remove jaggies left by a pencil or watercolor stroke.
-
-![Erased edge screenshot]({{ site.url }}/images/paper-53-erased-edge.jpg)
-
-* **Speed:** Slow = thin. Fast = thick.
-* **Blending:** Completely opaque. One stroke erases down to the egg shell white colored background.
-* **Sensitivity:** Soft = thin. Hard = thick.
-
-![Eraser line showing thin to thick]({{ site.url }}/images/paper-53-eraser-thick-thin.jpg)
-
-### Fountain pen (Draw) {#fountain-pen}
-
-Along with the eraser, the fountain pen is included for free when you download Paper by FiftyThree from the App Store. This was the tool I originally used the most when experimenting with Paper a year ago. It's hard not to fall in love with the flowing lines it makes when sliding your fingertips across the iPad's glass screen.
-
-![Fountain pen shapes to show the tool's opacity]({{ site.url }}/images/paper-53-fountain-pen-layers.jpg)
-
-My drawing style has evolved over the year from crisp line work to soft blended edges and tones. Because of this shift the fountain pen sees less usage and has been demoted to janitorial status like the eraser. Perfect for getting into tight places it also works well when coloring large blocks of color.
-
-![Background fill cover-up screenshot]({{ site.url }}/images/paper-53-background-fill.jpg)
-
-<i class="fa fa-star"></i> **ProTip:** The eraser removes everything --- including a background filled with color. A fountain pen filled with color that matches the background can be used instead of the eraser to correct mistakes.
-{: .notice}
-
-* **Speed:** Slow = thin. Fast = thick.
-* **Blending:** Almost fully opaque. Depending on the color it can take 2--3 layers to create a purely opaque color.
-* **Sensitivity:** Soft = thin. Hard = thick.
-
-### Pencil (Sketch) {#pencil}
-
-Versatile and perfect in almost any situation --- this is the one tool you should invest time in learning. The marks it makes resemble a traditional 2B pencil leaving behind a texture perfect for shading. The pencil also works great for lightly sketching to nail your composition before painting.
-
-![Pencil sketch screenshot]({{ site.url }}/images/paper-53-pencil-sketch.jpg)
-
-Shading power is amplified immensely when used with a fancy Bluetooth stylus with pressure sensitivity. If you've used a pencil in real life to draw you already know how to use this digital incarnation --- making it one of the most precise and forgivable tools in Paper's toolbox. 
-
-* **Speed:** Slow = dark. Fast = light.
-* **Blending:** Semi-transparent --- takes many layers to create a purely opaque color.
-* **Sensitivity:** Soft = light. Hard = dark.
-
-### Marker (Outline) {#marker}
-
-Unlike the fountain pen, the marker makes transparent marks you can see through. To make sense of the marker I pretend it's one of those neon yellow highlighters. If you drew yellow over black it wouldn't show up, the same is true in Paper.
-
-![Layers of marker acting like a highlighter screenshot]({{ site.url }}/images/paper-53-marker-yellow-layers.jpg)
-
-The exception to this rule is when the marker is filled with white. In this case it would act almost identically to the eraser but instead of an off-white color it makes a pure white. 
+*Black, J. A., Herbison, G. P., Lyons, R. A., Polinder, S., & Derrett, S.* (2011). 
+**Recovery after injury: an individual patient data meta-analysis of 
+general health status using the EQ-5D.** 
+The Journal of trauma, 71(4), 1003–10. doi:10.1097/TA.0b013e3182238833
 
 <figure>
-	<img src="{{ site.url }}/images/paper-53-eraser-vs-marker.jpg" alt="Eraser vs. marker lines screenshot">
+	<img src="{{ site.url }}/images/posts/paper1_ack" alt="Eraser vs. marker lines screenshot">
 	<figcaption>If you look closely you can spot the slight difference in color.</figcaption>
 </figure>
 
