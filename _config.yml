@@ -4,7 +4,7 @@ description:      "Reading Epidemiology at Jesus College, University of Cambridg
 logo:             jimmy_logo.png
 disqus_shortname: jamesblack
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              # http://mademistakes.com
+url:              http://www.epijim.co.uk
 
 # Owner/author information
 owner:
@@ -39,7 +39,7 @@ links:
     url: /
   - title: Blog
     url: /blog/
-  - title: Plots
+  - title: Gallery
     url: /plots/
   - title: My papers
     url: /my-papers/
